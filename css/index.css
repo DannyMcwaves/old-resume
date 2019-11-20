@@ -1,0 +1,211 @@
+#side{
+  height: 2200px;
+}
+
+#side label{
+    background-color: white;
+    padding: 70px;
+    color: black;
+}
+
+#side img{
+    height: 30px;
+    width: 30px;
+}
+
+.m-b-h{
+    margin-bottom: 5px;
+}
+
+.m-r-h{
+    margin-right: 5px;
+}
+
+.m-l-h{
+    margin-left: 15px;
+}
+section.detail li{
+    /*font-family: Lato-Regular;*/
+    list-style: circle;
+}
+
+#side div.card{
+    border: 0px;
+    font-family: Montserrat-Bold;
+    font-size: 0.7em;
+}
+
+#side .label, #main .label{
+    border: 0 !important;
+}
+
+#side div.card p.card-block a.link{
+    color: #373a3c;
+    text-decoration: none;
+}
+
+p.name{
+    font-size: 2em;
+    font-family: Montserrat-Black;
+}
+
+#main p.name{
+    color: darkgrey;
+    word-spacing: 6px
+}
+
+#main p.name span {
+    font-family: Montserrat-Regular;
+    font-size: 0.4em;
+    word-spacing: 1px;
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+}
+
+#main div header span{
+    /*border-bottom: 1px inset #f7f7fa;*/
+    border-bottom: 1px inset darkgrey;
+}
+
+#main div img{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    bottom: 2px;
+}
+
+#main div header span{
+    font-size: 0.7em;
+    padding-bottom: 2px;
+    padding-top: 5px;
+    font-family: Montserrat-Black;
+    position: relative;
+    bottom: 2px;
+    color: darkgrey;
+    letter-spacing: 1px;
+}
+
+#main section a{
+    color: darkgrey;
+    font-family: Montserrat-Regular;
+}
+
+#main div.content{
+    /*margin-bottom: 30px;*/
+}
+
+#main div.content div {
+    font-size: 0.7em;
+    text-align: justify;
+    padding-top: 10px;
+    font-family: Montserrat-Regular;
+    color: gray;
+}
+
+#main #edu img {
+    height: 12px;
+    width: 15px;
+}
+
+#main #edu img.edu{
+    height: 17px;
+    width: 17px;
+}
+
+#main div #ipmc{
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+#main div #mawuli{
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+
+img#teledata, img#harbor, img#roberts {
+    width: 100px !important;
+    height: 80px !important;
+    float: left;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+img#teledata + div.right{
+    
+}
+
+#main #edu img#edx {
+    width: 100px;
+    height: 50px;
+    float: left;
+}
+
+#main #edu img#cos {
+    width: 80px;
+    height: 60px;
+    float: left;
+}
+
+div.next{
+    float: left;
+    padding: 0 10px!important;
+    margin: 0!important;
+    clear: right;
+    font-size: 1.55em!important;
+}
+
+div.next h6 {
+    padding: 0;
+    margin: 0;
+}
+
+.xs-font{
+    font-size: 0.6em;
+}
+.sm-font{
+    font-size: 0.7em;
+}
+.md-font{
+    font-size: 0.8em;
+}
+.lg-font{
+    font-size: 0.9em;
+}
+.xl-font {
+    font-size: 1.2em;
+}
+.justify{
+    text-align: justify;
+}
+.bd-1{
+    border: 1px solid #c0c0c0;
+    border-radius: 3px;
+}
+
+#exp1 section, #exp2 section{
+    font-size: 2.7em!important;
+}
+
+#exp1 b, #exp2 b {
+    font-size: 2em!important;
+}
+header.exp {
+    border-bottom: 0!important;
+    text-align: center;
+}
+#main b.p-l-2.text{
+    font-size: 0.8em!important;
+}
+span.label.label-danger{
+    /*border-radius: 7px;*/
+    /*font-size: 0.4em;*/
+}
+#main div.content p.text-muted {
+    font-size: 1.7em!important;
+}
+/*#side img.img-top{*/
+    /*width: 20px;*/
+    /*height: 20px;*/
+/*}*/

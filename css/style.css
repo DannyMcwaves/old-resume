@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Montserrat-Bold", Helvetica, Arial, sans-serif;
+  color: #cc3366;
+}
+
+a {
+  color: #00B7FF;
+}
+
+p {
+    color: #330033;
+}
+pre p{
+    font-size: 13px;
+    font-family: Raleway-Black;
+    width: 500px;
+    text-overflow: ellipsis;
+}
+pre{
+    width: 100%;
+    text-overflow: ellipsis;
+}
